@@ -12,11 +12,14 @@ L'interprétation est l'un des pires pièges de notre métier et il y a beaucoup
 Donc, ici, j'invite chacun a décrire SA vision. C'est ainsi la possibilité de découvrir une nouvelle vision, de rencontrer des gens qui pensent comme nous, de nous remettre en question. D'apprendre. De progresser. De sortir de sa zone de confort. De partager avec les autres. De discuter de ses propres pratiques.
 
 ## Comment participer ? 
+[Cliquez ici pour savoir comment participer](./CONTRIBUTING.md)
 
-Pour participer, il suffit de cloner ce projet, d'écrire sa définition dans le dossier XX-nom-prenom et de proposer une pull request. J'ajouterai chaque définition dans l'ordre de réception.
 
 ## Consulter les participations
-[participation](./DEFINITIONS.md)
+[Cliquez ici pour voir les différentes définitions](./DEFINITIONS.md)
+
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 
 
